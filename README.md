@@ -1,6 +1,6 @@
 # Yet Another Kindred Blades Mod (YAKBM)
 
-![Main Menu](https://i.imgur.com/MEyKMhQ.jpeg)
+![Title Screen](https://i.imgur.com/shTQGCS.jpeg)
 
 ## DESCRIPTION:
 Yet Another Kindred Blades Mod (YAKBM) is another mod that tries to resemble some skins from PoP T2T before it was released.
