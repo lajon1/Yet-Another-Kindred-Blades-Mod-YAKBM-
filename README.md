@@ -19,6 +19,7 @@ the initial trailers and screenshots that were shared before the game's release.
 -    Tattoo on the left arm from WW
 -    Glowing WW tattoo (mostly)
 -    Recolored daggers
+-    New dagger
 -    New intro videos
 
 The outfits are consistent, meaning that after getting the 2nd and 3rd outfits, it still makes sense how they look.
